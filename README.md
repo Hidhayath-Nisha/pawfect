@@ -1,6 +1,6 @@
 # Pawfect
 
-Pawfect is an iOS app designed to enhance pet socialization and manage their diet. It allows pet owners to create personalized profiles for their pets, showcasing photos and important information that will be visible in other users' feeds.
+Pawfect is an iOS app designed to enhance pet socialization and manage their activities. It allows pet owners to create personalized profiles for their pets, showcasing photos and important information that will be visible in other users' feeds.
 
 The app features an interactive swipe-based system where users can explore other pets and match with those they are interested in. Once a match is made, users can chat and connect with other pet owners, fostering social interaction and potential playdates for their pets.
 
@@ -14,9 +14,8 @@ The app features an interactive swipe-based system where users can explore other
 
 ## Installation
 
-please have the X-Code installed or any other IDE that works for Swift language. 
-
-Clone this repository:
+- please have the X-Code installed or any other IDE that works for Swift language. 
+- Clone this repository:
 ```bash
 git clone https://github.com/Hidhayath-Nisha/pawfect.git
 
